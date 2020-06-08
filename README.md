@@ -1,4 +1,4 @@
-This is a project that utilizes supervised machine learning project to predict offensive NBA stats for the 2020 NBA draftees. 
+This is a project that utilizes supervised machine learning  to predict offensive NBA stats for the 2020 NBA draftees. 
 The training set is consisted of a preprocessed CSV file containing collegiate stats, body vitals, and professional stats for the top 
 rookies of the last 10 years. These rookies must have played 70% of the season and must have significant minutes per game. They also
 must have played basketball at a university in the United States - international rookies are not included. The test set is consisted of the 
